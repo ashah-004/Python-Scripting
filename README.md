@@ -23,7 +23,7 @@ This project demonstrates various tasks achievable through Python scripting. It 
 1. Clone the repository:
    ```bash
    git clone https://github.com/ashah-004/Python-Scripting.git
-   cd Pyhton-Scripting
+   cd Python-Scripting
 
 2. Run the script to begin the automation process:
    ```bash

@@ -12,8 +12,8 @@ This project demonstrates various tasks achievable through Python scripting. It 
 ## Project Workflow
 
 1. **Identify Game Directories**: Traverse the `/data` directory to find all directories related to games.
-2. **Create `/games` Directory**: Set up a new `/games` directory where the games will be organized.
-3. **Organize and Copy Game Files**: Copy the game directories into `/games`, removing the "game" suffix from the directory names.
+2. **Create `/new-games` Directory**: Set up a new `/new-games` directory where the games will be organized.
+3. **Organize and Copy Game Files**: Copy the game directories into `/new-games`, removing the "game" suffix from the directory names.
 4. **Generate Metadata File**: Create a `.json` file that contains information about the games.
 5. **Compile Game Code**: Compile all `.go` files in the game directories.
 6. **Run Game Code**: Execute the compiled game code.
@@ -22,14 +22,14 @@ This project demonstrates various tasks achievable through Python scripting. It 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
-   cd repository-name
+   git clone https://github.com/ashah-004/Python-Scripting.git
+   cd Pyhton-Scripting
 
 2. Run the script to begin the automation process:
    ```bash
-   python3 script_name.py
+   python3 fetch_games.py
 
-3. After running the script, check the /games directory for organized game files and the generated .json metadata.
+3. After running the script, check the /new_games directory for organized game files and the generated .json metadata.
 
 ## Requirements
 
